@@ -1,0 +1,2 @@
+insert into employee (emp_id, first_name, last_name, date_of_joining,port) values (111, 'Arpita', 'Datta', sysdate(),0)
+insert into employee (emp_id, first_name, last_name, date_of_joining,port) values (222, 'Rinku', 'Datta', sysdate(),0)
